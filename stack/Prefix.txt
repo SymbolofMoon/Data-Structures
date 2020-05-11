@@ -1,0 +1,15 @@
+x+ab/ef
+scan from right to left
+
+AoperatorB
+e/f=g
+
+x+abg
+
+a+b=c
+
+xcg
+
+c x g=l
+
+l

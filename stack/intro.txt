@@ -1,0 +1,11 @@
+Stack is like a cd player
+operation:
+pull(x)=Insertion  of similar datatypes;
+pop()=Deletion;
+peek()=>return top of the element but not delete it;
+top()=> remove top of element;
+isEmpty()
+isfull()
+
+static=arrays
+dynamic=linked_list
